@@ -1,5 +1,7 @@
 # Bun vs Node (V8) vs Bun FFI w/ C Benchmarking
 
+See [conclusion tweet](https://x.com/seveibar/status/1836519282920001892) and [development stream](https://blog.tscircuit.com/p/bun-ffi-benchmarking-optimizing-tscircuits)
+
 Test setup:
 
 - Representative Autorouting Problem

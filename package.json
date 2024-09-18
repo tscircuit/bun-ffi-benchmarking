@@ -1,0 +1,23 @@
+{
+  "name": "temp8",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@biomejs/biome": "^1.9.1",
+    "@tscircuit/soup": "^0.0.71",
+    "@tscircuit/soup-util": "^0.0.27",
+    "@types/bun": "^1.1.9",
+    "debug": "^4.3.7",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.19.1"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@tscircuit/infgrid-ijump-astar": "^0.0.20",
+    "@tscircuit/math-utils": "^0.0.4",
+    "circuit-json-to-connectivity-map": "^0.0.15",
+    "performance-now": "^2.1.0"
+  }
+}
